@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION['data'])){
+    header('../');
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

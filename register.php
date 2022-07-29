@@ -14,7 +14,7 @@
     <hr>
     <h3>Registration</h3>
     <div id="body">
-    <form action="#" method="post" enctype="multipart/form-data">
+    <form action="" method="post" enctype="multipart/form-data">
         <input type="text" name="name" placeholder="Enter Your Name">
         <input type="number" name="mobile" placeholder="Enter Your Mobile"><br><br>
         <input type="password" name="password1" placeholder="Enter Your Password">
